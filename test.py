@@ -1,3 +1,4 @@
 first = "Gagan"
 last = "Singh"
-print
+full = f"{first} {last} 
+print (full)
